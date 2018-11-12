@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Valami" language="en" table="x_216028_test_valami">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Valami</label>
+            <language>en</language>
+            <name>x_216028_test_valami</name>
+            <plural>Valamis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-12 11:32:22</sys_created_on>
+            <sys_id>4084b8a8db312300ed51f53a299619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Valami</sys_name>
+            <sys_package display_value="Test" source="x_216028_test">f84074e4db312300ed51f53a29961987</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">f84074e4db312300ed51f53a29961987</sys_scope>
+            <sys_update_name>sys_documentation_x_216028_test_valami__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-12 11:32:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
